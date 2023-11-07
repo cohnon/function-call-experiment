@@ -1,0 +1,28 @@
+let add a, b = a + b
+let pi = 3
+add 3, add add 1, 2, 3
+
+add(3, add(add(1, 2), 3))
+
+add:3, add: add: 1, 2, 3
+
+add 3 $ add $ add 1 2 $ 3
+
+add (add (-2) 3) $ (-4)
+
+add (add (-2) 3) -4
+add: (add: -2, 3), -4
+
+pyth: (add: -2, 3), -3
+pyth (add (-2) 3) (-3)
+
+pyth 3 $ add 3 4
+pyth: 3, add: 3, 4
+
+pyth (-3) $ add 3 4
+pyth: -3, add: 3, 4
+
+
+print: "Hello, world!";
+
+print "Hello world"
